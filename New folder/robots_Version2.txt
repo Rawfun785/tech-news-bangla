@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Rawfun785.github.io/tech-news-bangla/sitemap.xml
